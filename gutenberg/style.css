@@ -1,0 +1,33 @@
+body{
+    background-color: beige
+}
+
+a:link {
+    color: brown;
+}
+  
+a:visited {
+    color: rgb(71, 40, 18);
+}
+
+h1{
+    font-family: 'Germania One', cursive;
+}
+h2{
+    font-family: 'Germania One', cursive;
+}
+h3{
+    font-family: 'Germania One', cursive;
+}
+
+p{
+    margin-left: 5%;
+}
+
+img{
+    max-width: 100%;
+}
+
+.img-caption{
+    text-align: center;
+}

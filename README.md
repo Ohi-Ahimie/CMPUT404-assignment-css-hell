@@ -12,6 +12,11 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+
+Modifications Made
+=================
+Deleted style tags from gutenberg html pages. In 3.html, I replaced every instance of class "tei tei-figure c27" with "img-caption".
+
 License/Copyright
 =================
 
