@@ -1,0 +1,21 @@
+/* This was a very fun assignment, thank you :) */
+body{
+    background-color: red;
+    color: magenta;
+}
+
+.headshot{
+    width: 600px;
+    height:200px;
+}
+
+*{
+    display: inline;
+    /* got from: https://www.webmaster-source.com/2012/04/03/how-to-flip-a-page-upside-down-with-css/ */
+    -moz-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+    mix-blend-mode: difference;
+}

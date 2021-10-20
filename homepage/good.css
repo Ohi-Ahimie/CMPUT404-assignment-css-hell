@@ -1,0 +1,65 @@
+body{
+    background-color: seagreen;
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    width: 80%;
+}
+
+.col{
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col div{
+    padding-bottom: 30px;
+    padding-right: 10px;
+}
+
+.toprow div{
+    padding: 10px;
+}
+
+.headshot{
+    height: 40%;
+}
+
+li{
+    display: block;
+    padding: 10px;
+    padding-left: 20px;
+}
+
+.title{
+    text-align: center;
+    color: rgb(14, 104, 51);
+    font-weight: 900;
+    font-size: x-large;
+}
+
+.textbox{
+    background-color: white;
+    background-clip: content-box;
+}
+
+.sidebar{
+    padding-bottom: 30px;
+}
+
+.nametag{
+    font-weight: 900;
+    color: rgb(14, 104, 51);
+}
+
+hr{
+    color: rgb(14, 104, 51);  
+}
